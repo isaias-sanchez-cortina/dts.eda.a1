@@ -1,3 +1,4 @@
+# Assigment 1. Plot 4 . By Isaias Sanchez Cortina (isanchez@doctor.upv.es)
 
 # Ensure numeric data is to be read properly and Dates will be in English
 Sys.setlocale("LC_ALL","C") 
